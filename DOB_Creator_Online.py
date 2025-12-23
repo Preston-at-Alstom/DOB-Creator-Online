@@ -32,7 +32,7 @@ if don_cover_page is None:
     don_cover_page = './PDFs/Permanent DOB  DON Coverpage.pdf' 
 
 DOB_to_email_files =  [ gta, bala,
-                        './PDFs/Crew Predarture Job Briefing Checklist - Updated June 2025.pdf',
+                        './PDFs/Predeparture Checklist Template  - 2025-12-22.pdf',
                         './PDFs/HS Concern Form.pdf',
                         './PDFs/Reversing Re-Spotting Checklist with crossings.pdf',
                         './PDFs/Station to Station Job Briefing Requirements.pdf',
@@ -79,4 +79,5 @@ if None not in DOB_to_email_files:
     st.download_button( label=f'Download {dob_print_output_file}',
                         data=dob_print_package,
                         file_name=dob_print_output_file,
+
                         mime="application/pdf"    )   
