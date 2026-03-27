@@ -34,7 +34,7 @@ if don_cover_page is None:
 DOB_to_email_files =  [ gta, bala,
                         './PDFs/Predeparture Checklist Template  - 2025-12-22.pdf',
                         './PDFs/HS Concern Form.pdf',
-                        './PDFs/ReversingRe-Spotting Checklist.pdf',
+                        './PDFs/Reversing Re-Spotting Checklist updated March 27 2026.pdf',
                         './PDFs/Re-spotting an Overshoot and the Application of CROR 115 at Grade Crossings.pdf',
                         './PDFs/Station to Station Job Briefing Requirements.pdf',
                         './PDFs/Station to Station Notepad.pdf',
