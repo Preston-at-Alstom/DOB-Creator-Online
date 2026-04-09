@@ -38,9 +38,10 @@ DOB_to_email_files =  [ gta, bala,
                         './PDFs/Re-spotting an Overshoot and the Application of CROR 115 at Grade Crossings.pdf',
                         './PDFs/Station to Station Job Briefing Requirements.pdf',
                         './PDFs/Station to Station Notepad.pdf',
-                        './PDFs/CPKC Signal Authority Form.pdf',
                         './PDFs/12.15. DMU Transponder Loops - Job Aid.pdf',
-                        don, cp_west, cp_hamilton, metrolinx_guelph,
+                        don, cp_west, cp_hamilton,
+                        './PDFs/CPKC Signal Authority Form.pdf',
+                        metrolinx_guelph,
                         './PDFs/Radio Channel Guide July 23rd.pdf'
                         ]
 DOB_to_print_files = [dob_cover_page] + DOB_to_email_files
