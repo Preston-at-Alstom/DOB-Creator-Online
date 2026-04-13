@@ -33,7 +33,7 @@ if don_cover_page is None:
 
 DOB_to_email_files =  [ gta, bala,
                         './PDFs/Predeparture Checklist Template  - 2025-12-22.pdf',
-                        './PDFs/HS Concern Form.pdf',
+                        './PDFs/EHS Concern  Form updated PDF 10.04.2026.pdf',
                         './PDFs/Reversing Re-Spotting Checklist updated April 02 2026.pdf',
                         './PDFs/Re-spotting an Overshoot and the Application of CROR 115 at Grade Crossings.pdf',
                         './PDFs/Station to Station Job Briefing Requirements.pdf',
@@ -45,7 +45,7 @@ DOB_to_email_files =  [ gta, bala,
                         './PDFs/Radio Channel Guide July 23rd.pdf'
                         ]
 DOB_to_print_files = [dob_cover_page] + DOB_to_email_files
-don_package_files  = [don_cover_page, don, './PDFs/HS Concern Form.pdf', './PDFs/Radio Channel Guide July 23rd.pdf']
+don_package_files  = [don_cover_page, don, './PDFs/EHS Concern  Form updated PDF 10.04.2026.pdf', './PDFs/Radio Channel Guide July 23rd.pdf']
 cp_package_files   = [cp_west, cp_hamilton]
 
 # get desktop location and filenames
