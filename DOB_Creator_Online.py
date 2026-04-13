@@ -40,7 +40,7 @@ DOB_to_email_files =  [ gta, bala,
                         './PDFs/Station to Station Notepad.pdf',
                         './PDFs/12.15. DMU Transponder Loops - Job Aid.pdf',
                         don, cp_west, cp_hamilton,
-                        './PDFs/CPKC Signal Authority Form.pdf',
+                        './PDFs/CPKC Signal Authority Form (Apr10).pdf',
                         metrolinx_guelph,
                         './PDFs/Radio Channel Guide July 23rd.pdf'
                         ]
